@@ -1,7 +1,7 @@
 ### Samuel Heal
 ## Full-Stack Web Developer
 
-I am a Full-Stack Web Developer with an interest in creating user-focussed projects that solve actual real world problems
+I am a Full-Stack Web Developer with an interest in creating user-focussed projects that solve relevant real world problems.
 
 ![Sams’ GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelHeal&theme=dracula&show_icons=true&count_private=true "Sams’ GutHub Stats")
 
