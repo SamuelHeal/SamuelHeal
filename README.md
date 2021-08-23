@@ -1,8 +1,9 @@
 ### Samuel Heal
 ## Full-Stack Web Developer
 
-![Sams’ GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelHeal&theme=dracula&show_icons=true&count_private=true "Sams’ GutHub Stats")
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelHeal&theme=dracula "Sams’ Top Languages Card")
+##![Sams’ GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelHeal&theme=dracula&show_icons=true&count_private=true "Sams’ GutHub Stats")
+
+##![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelHeal&theme=dracula "Sams’ Top Languages Card")
 
 <a href="https://www.linkedin.com/in/samuelheal"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 <!--
