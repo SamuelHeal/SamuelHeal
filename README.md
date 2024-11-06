@@ -1,5 +1,29 @@
 # 💫 About Me:
-I am currently focussed on learning how to build AI integrated applications that can be deployed on both desktop and mobile platforms<br>My goal is to complete a Masters in Computer Science (Artificial Intelligence) at Melbourne University
+```javascript
+const sam = {
+    pronouns: "He" | "Him",
+    code: ["TypeScript", "Javascript", "HTML", "CSS", "C", "C++", "R", "PHP"],
+    askMeAbout: ["web dev", "UI/UX", "idea generation"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Sass", "Tailwind"],
+            uiLibraries: ["shadcn UI"],
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+        },
+        mobileApp: {
+            crossPlatform: ["Electron"],
+        },
+        devOps: ["Docker🐳", "CI/CD", "GitHub Actions"],
+        databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase Realtime DB", "Supabase"],
+        misc: ["REST APIs", "WebSockets", "Cloud Functions"],
+        generativeAI: ["GPT"],
+    },
+    currentFocus: "Crossplatform application development with AI integrations",
+};
+```
 
 
 ## 🌐 Socials:
